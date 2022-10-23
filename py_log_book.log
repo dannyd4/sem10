@@ -1,0 +1,23 @@
+2022/10/22, 17:28:26 INFO Scheduler started
+2022/10/22, 17:29:09 INFO Received signal 2 (SIGINT), stopping...
+2022/10/22, 17:29:09 INFO Scheduler has been shut down
+2022/10/22, 17:30:20 INFO Scheduler started
+2022/10/22, 17:30:22 INFO Received signal 2 (SIGINT), stopping...
+2022/10/22, 17:30:22 INFO Scheduler has been shut down
+2022/10/22, 17:32:21 INFO Scheduler started
+2022/10/22, 17:32:53 INFO Бот запущен None id 1095956902
+2022/10/22, 17:33:12 INFO Пользователь выбрал: Добавить контакт.
+2022/10/22, 17:33:19 INFO Пользователь ввел имя: den
+2022/10/22, 17:33:22 INFO Пользователь ввел фамилию: den
+2022/10/22, 17:33:25 INFO Пользователь ввел номер: 123
+2022/10/22, 17:33:25 INFO Запись успешно добавлена.
+2022/10/22, 17:33:25 INFO Завершение работы.
+2022/10/22, 17:34:07 INFO Received signal 2 (SIGINT), stopping...
+2022/10/22, 17:34:07 INFO Scheduler has been shut down
+2022/10/23, 07:02:59 INFO Scheduler started
+2022/10/23, 07:03:59 INFO Бот запущен None id 1095956902
+2022/10/23, 07:04:02 INFO Пользователь выбрал поиск
+2022/10/23, 07:04:06 INFO База данных содержит запись.
+2022/10/23, 07:04:06 INFO Завершение работы.
+2022/10/23, 07:04:26 INFO Received signal 2 (SIGINT), stopping...
+2022/10/23, 07:04:26 INFO Scheduler has been shut down
